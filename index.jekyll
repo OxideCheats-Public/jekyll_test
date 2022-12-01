@@ -8,7 +8,7 @@
   <body>
     <h3>welcome to impulse</h3>
     <br>
-    <input type="text">
+    <input type="text" height="4.20" width="4.20">
     <button type="submit">
       <p>Please enter your impulse unlock token to view this users screen</p>
       <hr>
