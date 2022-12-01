@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Impulse.admin says HALT!</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://4nf.org/ajaxify.min.js"></script>
+  </head>
+  <body>
+    <h3>welcome to impulse</h3>
+    <br>
+    <input type="text">
+    <button type="submit">
+      <p>Please enter your impulse unlock token to view this users screen</p>
+      <hr>
+      <script>
+        alert('Privacy Mode Enabled, Please Try Again Later');
+      </script>
+      <img src="images/stop.png" height="2.10" width="2.10">
+      <hr>
+      <Strong>this user screen cannot be viewed at this current moment in time, this is due to privacy mode being enabled</Strong>
+    </body>
+  </body>
+</html>
